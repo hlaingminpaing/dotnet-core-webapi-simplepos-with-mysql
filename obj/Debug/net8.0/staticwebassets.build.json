@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "izr56+5jBYZJI0n3FZd90hpUvuV6u8Muhxrz8cFS3VI=",
+  "Source": "PosWebApi",
+  "BasePath": "_content/PosWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
